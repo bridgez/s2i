@@ -4,7 +4,7 @@
     </head>
     <body>
         <?php
-            echo 'Hello,S2I';
+            echo 'Hello,S2I V2';
         ?>
     </body>
 </html>
