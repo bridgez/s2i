@@ -7,3 +7,4 @@
             echo $_SERVER['SERVER_ADDR'];
         ?>
     </body>
+</html>
