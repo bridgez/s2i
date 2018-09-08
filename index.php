@@ -4,7 +4,6 @@
     </head>
     <body>
         <?php
-            echo 'Hello,S2I V2';
+            echo $_SERVER['SERVER_ADDR'];
         ?>
     </body>
-</html>
