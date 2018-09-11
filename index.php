@@ -5,7 +5,7 @@
     <body>
         <?php
             echo $_SERVER['SERVER_ADDR'];
-            echo '<p>Version v5</p>'; 
+            echo '<p>Version v1</p>'; 
         ?>
     </body>
 </html>
